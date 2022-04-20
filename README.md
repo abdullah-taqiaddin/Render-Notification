@@ -3,7 +3,7 @@ Sends a simple email message informing the user that his render's complete
 #NOTE that the email entered is sender / receiver
 Made this simple script because ray tracing renders usually take quite some time and would be quite helpful to be notified of its completion
 
-1-Go to referances --> Add-Ons --> install --> install the .py / rar file 
+1-Go to edit --> referances --> Add-Ons --> install --> install the .py / rar file 
 ![image](https://user-images.githubusercontent.com/72511000/164324710-3e163a10-a672-4523-b966-80eb54111a79.png)
 
 2-Enable the add-on
