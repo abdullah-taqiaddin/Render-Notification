@@ -7,8 +7,6 @@ import smtplib , ssl
 from email.message import EmailMessage
 
 #Send an email Notification once a render is finished
-#NOTE:The sender is the same as the receiver
-#TODO:Send metadata of the render to the user in the email subject
 
 
 bl_info = {
